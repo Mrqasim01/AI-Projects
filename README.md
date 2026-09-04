@@ -48,7 +48,7 @@ python main.py
 
 ### Admin Login
 - **Default Username:** qasim01
-- **Default Password:** Qasim@2001
+- **Default Password:** ***********
 
 ### Student Registration
 1. Login as admin
